@@ -1,6 +1,19 @@
 # calculator
+A WIP project to make a personal calculator, based on the tutorial video of https://www.youtube.com/@shohruhak.
 
-A new Flutter project.
+Working
++ calculating standard operations
++ looking kinda nice
+
+TODO
+-get negativ numbers to work
+-make scientific version
+-make programmer version
+-make unit conversion version
+-make user option for colour customisation
+
+
+
 
 ## Getting Started
 
